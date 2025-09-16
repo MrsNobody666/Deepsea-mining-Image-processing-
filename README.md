@@ -39,3 +39,59 @@ deepsea-image-processing/
 │   └── utils.py
 ├── requirements.txt      # Dependencies
 └── README.md             # Project documentation
+🚀 Getting Started
+1. Clone the Repository
+git clone https://github.com/yourusername/deepsea-image-processing.git
+cd deepsea-image-processing
+
+2. Install Dependencies
+pip install -r requirements.txt
+
+3. Run the Pipeline
+python main.py
+
+
+You can also run individual scripts inside src/ to test specific transformations.
+
+🖼️ Example Outputs
+
+Here are some sample outputs from the pipeline:
+
+Original Image	Segmented	Skeletonized	Inverted	Grayscale
+
+	
+Note: Replace these with actual image paths or hosted image links.
+
+📌 Future Improvements
+
+ Add edge detection and contour mapping
+
+ Integrate ML/DL models for object detection
+
+ Build interactive UI or web dashboard
+
+ Automate batch processing with logging
+
+🌍 Applications
+
+🧪 Marine research and biology
+
+🦾 AUV and ROV visual systems
+
+🌐 Environmental impact studies
+
+🛠️ Resource mapping in deep-sea mining
+
+🤝 Contributing
+
+Contributions are very welcome!
+Please fork this repo, create a feature branch, and submit a pull request.
+
+You can also open issues for bugs, suggestions, or improvements.
+
+📜 License
+
+This project is licensed under the MIT License.
+
+👤 Author
+Naman Meena
