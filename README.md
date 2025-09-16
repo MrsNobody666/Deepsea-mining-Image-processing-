@@ -31,8 +31,6 @@ Deep-sea mining presents complex visual challenges due to murky environments, lo
 
 ```bash
 deepsea-image-processing/
-│
-├── data/                 # Input images (raw underwater imagery)
 ├── src/                  # Core image processing scripts
 │   ├── segmentation.py
 │   ├── skeletonize.py
